@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Pi/99+wM6goHgmpbEndrElZSleqx7YIPxLPFR4t64LIgl9mqM9LbZjOszGk4VicsGa/jxwOvaeWRb5tyiM0lw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\vb\\WinFormsApp_Anne\\WinFormsApp_Anne.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mthia\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.13\\microsoft.data.sqlite.core.7.0.13.nupkg.sha512",
+    "C:\\Users\\mthia\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
+    "C:\\Users\\mthia\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\mthia\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\mthia\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\mthia\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\mthia\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
